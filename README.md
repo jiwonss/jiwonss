@@ -33,7 +33,9 @@
 
 <div align=center>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiwonss&count_bg=%23008CB8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="https://jiwonss.tistory.com/" target="_blank"><img src="https://img.shields.io/static/v1?label=blog&message=Tistory&color=blue"/></a>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sjs3326)](https://solved.ac/sjs3326)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiwonss&count_bg=%23008CB8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)	
 
 </div>
 
