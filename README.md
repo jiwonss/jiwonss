@@ -18,15 +18,6 @@
 <br>
 <br>
 
-<div align=center>
-	<a href="https://github-readme-stats.vercel.app/api?username=jiwonss&show_icons=true">
-	  <img align="center" width="53%" src="https://github-readme-stats.vercel.app/api?username=jiwonss&show_icons=true" />
-	</a>
-</div>
-
-<br>
-<br>
-
 
 <div align=center>
 
