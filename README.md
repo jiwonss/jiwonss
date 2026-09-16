@@ -1,26 +1,51 @@
-<div align=center>
-
-### ⚒️ Tech Stack ⚒️
+<div align="center">
 
 <br>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+**Backend**
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+[![Backend](https://skillicons.dev/icons?i=java,spring,python,fastapi,flask)](https://skillicons.dev)
 
-</div>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square)
+![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square)
 
 <br>
+
+**Frontend**
+
+[![Frontend](https://skillicons.dev/icons?i=javascript,react,vue)](https://skillicons.dev)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square)
+
 <br>
 
+**Database & Infrastructure**
 
-<div align=center>
+[![Database & Infrastructure](https://skillicons.dev/icons?i=mysql,mongodb,redis,docker,rabbitmq,aws,jenkins)](https://skillicons.dev)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sjs3326)](https://solved.ac/sjs3326)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square)
+
+<br>
+
+**Tools**
+
+**Tools**
+
+[![Tools](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square)
 
 </div>
