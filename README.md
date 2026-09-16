@@ -41,8 +41,6 @@
 
 **Tools**
 
-**Tools**
-
 [![Tools](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square)
